@@ -7,5 +7,5 @@ Author: Tim Riffe
 Maintainer: Tim Riffe <tim.riffe@gmail.comt>
 Suggests: MortalitySmooth
 Description: Contains function for plotting Lexis triangle surfaces consisting. Also contains four ad-hoc functions for interpolating Lexis triangles from data in Lexis squares (gridded).
-License: General Public
+License: GPL-2
 LazyLoad: yes
